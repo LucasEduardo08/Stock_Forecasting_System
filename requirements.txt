@@ -4,3 +4,4 @@ statsmodels
 scikit-learn
 keras
 tensorflow
+torch
